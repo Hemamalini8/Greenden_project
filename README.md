@@ -44,7 +44,8 @@ A **polished, multi-page responsive website** with a clean interface and smooth 
 
 ## 🔗 How to View
 You can explore my Greenden project here:  
-👉 [Click Here](https://hemamalini8.github.io/Greenden_TailwindCSS/)
+👉 [Click Here](https://hemamalini8.github.io/Greenden_project/
+)
 
 ---
 
